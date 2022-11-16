@@ -21,7 +21,7 @@ sfdx force:package:installed:list -u $TARGET | fgrep 12.5.0-4fdb8436-04t6g000008
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdmin" || echo "Already assigned, ignoring"
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdminReadonly" || echo "Already assigned, ignoring"
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQRuntime" || echo "Already assigned, ignoring"
-sfdx force:package:installed:list -u $TARGET | fgrep  || sfdx force:package:install --noprompt -u $TARGET --package  -w 15
+sfdx force:package:installed:list -u $TARGET | fgrep 12.3.0-8d388139-04t6g000008OXv0AAG || sfdx force:package:install --noprompt -u $TARGET --package 12.3.0-8d388139-04t6g000008OXv0AAG -w 15
 sfdx force:package:installed:list -u $TARGET | fgrep 12.0.11-4fdb8436-04t6g000008OXuRAAW || sfdx force:package:install --noprompt -u $TARGET --package 12.0.11-4fdb8436-04t6g000008OXuRAAW -w 15
 echo Installing data
 
