@@ -1,7 +1,7 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
-| [2022.R3.1.0](/install_2022.R3.1.0.sh) | 12.5.0-4fdb8436-04t6g000008OXuqAAG | 12.3.0-8d388139-04t6g000008OXv0AAG | 12.2.0-8d388139-04t6g000008OXv5AAG | 10.0.0-6b52c6e0 | 4.0.0-b008c76c | 9.0.0-be10d5db |  |
+| [2022.R3.1.1](/install_2022.R3.1.1.sh) |  |  | 12.1.0-e0099988-04t6g000008OXxfAAG | 10.0.0-6b52c6e0 | 4.0.0-b008c76c | 9.0.0-be10d5db |  |
 
 
 
@@ -19,4 +19,5 @@
 | [2022.R1.1.6](/install_2022.R1.1.6.sh) | 10.10.0-12d4db9-04t6g000008C4kkAAC | 10.10.0-12d4db9-04t6g000008C4kzAAC | 10.2.0-94f61a52-04t6g000008C4CaAAK | 7.9.0-f4ba407d | 1.2.0-350d14d4 | 6.4.0-31e56f9d | 1.0.7-14311ef8 |
 | [2022.R2.1.2](/install_2022.R2.1.2.sh) | 11.3.0-baf6128d-04t6g000008C4ydAAC | 11.3.0-e2b70f03-04t6g000008C53ZAAS | 10.2.0-baf6128d-04t6g000008C4CaAAK | 8.2.0-4635747f | 2.2.0-9cae0415 | 7.2.0-18ffe9b9 | 1.0.7-14311ef8 |
 | [2022.R1.1.7](/install_2022.R1.1.7.sh) | 10.10.0-12d4db9-04t6g000008C4kkAAC | 10.10.0-12d4db9-04t6g000008C4kzAAC | 10.2-04t6g000008C4CaAAK-94f61a52 | 7.10.0-5eaccf29 | 1.2.0-350d14d4 | 6.5.0-93b8241c | 1.0.7-14311ef8 |
+| [2022.R3.1.0](/install_2022.R3.1.0.sh) | 12.5.0-4fdb8436-04t6g000008OXuqAAG | 12.3.0-8d388139-04t6g000008OXv0AAG | 12.2.0-8d388139-04t6g000008OXv5AAG | 10.0.0-6b52c6e0 | 4.0.0-b008c76c | 9.0.0-be10d5db | 1.1.15-73a9ea8f |
 
