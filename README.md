@@ -1,7 +1,7 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
-| [2022.R4.1.0](/install_2022.R4.1.0.sh) |  |  |  | 11.0.0-b20fbfda | 5.0.0-5fcf9b21 | 10.0.0-3deeda06 |  |
+| [2022.R4.1.0](/install_2022.R4.1.0.sh) |  |  |  | 11.0.0-b20fbfda | 5.0.0-237b61cd | 10.0.0-3deeda06 |  |
 
 
 
