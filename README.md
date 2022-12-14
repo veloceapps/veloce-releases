@@ -2,6 +2,7 @@
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
 | [2022.R4.1.0](/install_2022.R4.1.0.sh) |  |  |  | 11.0.0-fc59c80a | 5.0.0-b98f3e4e | 10.0.0-b8740c4f |  |
+| [2022.R3.1.2](/install_2022.R3.1.2.sh) | 13.3.0-bdfb3d9c-04t6g000008OXzbAAG | 13.0.0-bdfb3d9c-04t6g000008OXzgAAG | 13.0.0-bdfb3d9c-04t6g000008OXzlAAG | 10.2.0-f8ff6ec9 | 4.0.0-b008c76c | 9.0.0-be10d5db |  |
 
 
 
