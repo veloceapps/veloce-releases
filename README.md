@@ -1,6 +1,7 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
+| [2022.R3.1.4](/install_2022.R3.1.4.sh) | 13.3.0-bdfb3d9c-04t6g000008OXzbAAG | 13.0.0-bdfb3d9c-04t6g000008OXzgAAG | 13.0.0-bdfb3d9c-04t6g000008OXzlAAG | 10.4.0-54bc10b3 | 4.0.0-b008c76c | 9.0.0-be10d5db | 1.1.15-73a9ea8f |
 
 
 
@@ -22,4 +23,5 @@
 | [2022.R3.1.1](/install_2022.R3.1.1.sh) | 13.3.0-bdfb3d9c-04t6g000008OXzbAAG | 13.0.0-bdfb3d9c-04t6g000008OXzgAAG | 13.0.0-bdfb3d9c-04t6g000008OXzlAAG | 10.1.0-bf918af2 | 4.0.0-b008c76c | 9.0.0-be10d5db | 1.1.15-73a9ea8f |
 | [2022.R3.1.2](/install_2022.R3.1.2.sh) | 13.3.0-bdfb3d9c-04t6g000008OXzbAAG | 13.0.0-bdfb3d9c-04t6g000008OXzgAAG | 13.0.0-bdfb3d9c-04t6g000008OXzlAAG | 10.2.0-f8ff6ec9 | 4.0.0-b008c76c | 9.0.0-be10d5db | 1.1.15-73a9ea8f |
 | [2022.R3.1.3](/install_2022.R3.1.3.sh) | 13.3.0-bdfb3d9c-04t6g000008OXzbAAG | 13.0.0-bdfb3d9c-04t6g000008OXzgAAG | 13.0.0-bdfb3d9c-04t6g000008OXzlAAG | 10.3.0-76f8ba9d | 4.0.0-b008c76c | 9.0.0-be10d5db | 1.1.15-73a9ea8f |
+| [2022.R4.1.0](/install_2022.R4.1.0.sh) | 14.0.0-3-cd1f2fcb-04t6g000008OY8yAAG | 14.0.0-6-cd1f2fcb-04t6g000008OY8zAAG | 14.0.0-0-a4118382-04t6g000008OY7HAAW | 11.0.0-103-2002f58b | 5.0.0-101-9beddf56 | 10.0.0-7-458b7aa2 | 1.1.15-73a9ea8f |
 
