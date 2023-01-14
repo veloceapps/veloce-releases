@@ -17,12 +17,12 @@ then
   exit 255
 fi
 echo Installing packages
-sfdx force:package:installed:list -u $TARGET | fgrep 14.0.0-9-9a4a4216-04t6g000008OYBEAA4 || sfdx force:package:install --noprompt -u $TARGET --package 14.0.0-9-9a4a4216-04t6g000008OYBEAA4 -w 15
+sfdx force:package:installed:list -u $TARGET | fgrep 14.0.0-11-5b1561de-04t6g000008OYCMAA4  || sfdx force:package:install --noprompt -u $TARGET --package 14.0.0-11-5b1561de-04t6g000008OYCMAA4  -w 15
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdmin" || echo "Already assigned, ignoring"
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdminReadonly" || echo "Already assigned, ignoring"
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQRuntime" || echo "Already assigned, ignoring"
-sfdx force:package:installed:list -u $TARGET | fgrep 14.0.0-9-9a4a4216-04t6g000008OYBJAA4 || sfdx force:package:install --noprompt -u $TARGET --package 14.0.0-9-9a4a4216-04t6g000008OYBJAA4 -w 15
-sfdx force:package:installed:list -u $TARGET | fgrep 14.0.0-0-a4118382-04t6g000008OY7HAAW || sfdx force:package:install --noprompt -u $TARGET --package 14.0.0-0-a4118382-04t6g000008OY7HAAW -w 15
+sfdx force:package:installed:list -u $TARGET | fgrep 14.0.0-11-9a35f660-04t6g000008OYCgAAO || sfdx force:package:install --noprompt -u $TARGET --package 14.0.0-11-9a35f660-04t6g000008OYCgAAO -w 15
+sfdx force:package:installed:list -u $TARGET | fgrep 14.0.0-1-96eccca1-04t6g000008OYCRAA4 || sfdx force:package:install --noprompt -u $TARGET --package 14.0.0-1-96eccca1-04t6g000008OYCRAA4 -w 15
 echo Installing data
 
 cat << EOF > ./sfdx-project.json
