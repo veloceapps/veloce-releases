@@ -1,7 +1,7 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
-| [2023.R4.1.3](/install_2023.R4.1.3.sh) | 14.3.0-8a4a8adb-04t6g000008OYNVAA4 | 14.2.0-76d156ce-04t6g000008OYHqAAO | 14.3.0-8a4a8adb-04t6g000008OYNaAAO | 11.2.0-3-0064fb70 | 5.2.0-2-3f00cc4a | 10.2.0-6-30b969d3 | 1.1.15-73a9ea8f |
+| [2023.R4.1.3](/install_2023.R4.1.3.sh) | 14.3.0-8a4a8adb-04t6g000008OYNVAA4 | 14.2.0-76d156ce-04t6g000008OYHqAAO | 14.3.0-8a4a8adb-04t6g000008OYNaAAO | 11.3.0-1-28df7ba3 | 5.2.0-2-3f00cc4a | 10.2.0-6-30b969d3 | 1.1.15-73a9ea8f |
 
 
 
