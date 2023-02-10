@@ -1,6 +1,7 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
+| [2023.R4.1.4](/install_2023.R4.1.4.sh) | 14.4.0-5e6af9d8-04t6g000008nzWfAAI | 14.3.0-5e6af9d8-04t6g000008nzWkAAI | 14.4.0-d00dfdcb-04t6g000008OYY1AAO | 11.4.0-3-29b41cd2 | 5.3.0-3-40fb0db5 | 10.3.0-3-2328976b | 1.1.15-73a9ea8f |
 
 
 
@@ -27,5 +28,4 @@
 | [2023.R4.1.1](/install_2023.R4.1.1.sh) | 14.2.0-76d156ce-04t6g000008OYHgAAO | 14.2.0-76d156ce-04t6g000008OYHqAAO | 14.2.0-76d156ce-04t6g000008OYHrAAO | 11.1.0-74b2dbf7 | 5.1.0-36d3c41b | 10.1.0-20b27bdc | 1.1.15-73a9ea8f |
 | [2023.R4.1.2](/install_2023.R4.1.2.sh) | 14.3.0-8a4a8adb-04t6g000008OYNVAA4 | 14.2.0-76d156ce-04t6g000008OYHqAAO | 14.3.0-8a4a8adb-04t6g000008OYNaAAO | 11.2.0-3-0064fb70 | 5.2.0-2-3f00cc4a | 10.2.0-6-30b969d3 | 1.1.15-73a9ea8f |
 | [2023.R4.1.3](/install_2023.R4.1.3.sh) | 14.4.0-5e6af9d8-04t6g000008nzWfAAI | 14.3.0-5e6af9d8-04t6g000008nzWkAAI | 14.4.0-d00dfdcb-04t6g000008OYY1AAO | 11.3.0-5-f34ccce1 | 5.3.0-3-40fb0db5 | 10.3.0-3-2328976b | 1.1.15-73a9ea8f |
-| [2023.R4.1.4](/install_2023.R4.1.4.sh) | 14.4.0-5e6af9d8-04t6g000008nzWfAAI | 14.3.0-5e6af9d8-04t6g000008nzWkAAI | 14.4.0-d00dfdcb-04t6g000008OYY1AAO | 11.4.0-3-29b41cd2 | 5.3.0-3-40fb0db5 | 10.3.0-3-2328976b | 1.1.15-73a9ea8f |
 
