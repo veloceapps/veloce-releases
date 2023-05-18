@@ -1,7 +1,6 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
-| [2023.R5.1.1](/install_2023.R5.1.1.sh) | 15.2.0-f9e64aeb-04t6g000008KQnoAAG | 15.2.0-f9e64aeb-04t6g000008KQntAAG | 15.2.0-f9e64aeb-04t6g000008KQnyAAG | 12.1.1-15-681471e4 | 6.1.1-3-050a0583 | 11.0.1-18-ada36e51 | 1.1.15-73a9ea8f |
 
 
 
@@ -40,5 +39,6 @@
 | [2023.R5.1.0](/install_2023.R5.1.0.sh) | 15.1.0-b07e55e0-04t6g000008SnOvAAK | 15.1.0-b07e55e0-04t6g000008SnP5AAK | 15.1.0-b07e55e0-04t6g000008SnPFAA0 | 12.0.1-151-e7b689cf | 6.0.1-234-57dea877 | 11.0.1-18-ada36e51 | 1.1.15-73a9ea8f |
 | [2023.R4.1.10](/install_2023.R4.1.10.sh) | 14.8.0-d91b3f31-04t6g000008SnN4AAK | 14.7.0-d91b3f31-04t6g000008SnN9AAK | 14.9.0-afecfe17-04t6g000008SnOlAAK | 11.10.0-2-2fc1d3f7 | 5.5.0-4-d578ba1e | 10.4.0-8-454bc627 | 1.1.15-73a9ea8f |
 | [2023.R4.1.11](/install_2023.R4.1.11.sh) | 14.8.0-d91b3f31-04t6g000008SnN4AAK | 14.7.0-d91b3f31-04t6g000008SnN9AAK | 14.9.0-afecfe17-04t6g000008SnOlAAK | 11.11.0-7-75e8d067 | 5.6.0-5-b98a78d5 | 10.4.0-8-454bc627 | 1.1.15-73a9ea8f |
+| [2023.R5.1.1](/install_2023.R5.1.1.sh) | 15.2.0-f9e64aeb-04t6g000008KQnoAAG | 15.2.0-f9e64aeb-04t6g000008KQntAAG | 15.2.0-f9e64aeb-04t6g000008KQnyAAG | 12.1.1-15-681471e4 | 6.1.1-3-050a0583 | 11.0.1-18-ada36e51 | 1.1.15-73a9ea8f |
 | [2023.R4.1.12](/install_2023.R4.1.12.sh) | 14.8.0-d91b3f31-04t6g000008SnN4AAK | 14.7.0-d91b3f31-04t6g000008SnN9AAK | 14.9.0-afecfe17-04t6g000008SnOlAAK | 11.12.0-4-7f540808 | 5.6.0-5-b98a78d5 | 10.4.0-8-454bc627 | 1.1.15-73a9ea8f |
 
