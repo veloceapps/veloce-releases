@@ -2,7 +2,6 @@
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
 | [2022.R3.1.7](/install_2022.R3.1.7.sh) | 13.7.0-3a5f27a5-04t6g000008OYHWAA4 | 13.2.0-3a5f27a5-04t6g000008OYHbAAO | 13.5.0-3a5f27a5-04t6g000008OYHlAAO | 10.6.1-3-8804a0ee | 4.2.1-2-45719af6 | 9.3.1-4-21d594c1 | 1.1.15-73a9ea8f |
-| [2023.R5.1.3](/install_2023.R5.1.3.sh) | 15.2.0-f9e64aeb-04t6g000008KQnoAAG | 15.2.0-f9e64aeb-04t6g000008KQntAAG | 15.2.0-f9e64aeb-04t6g000008KQnyAAG | 12.3.1-2-eba367d2 | 6.2.1-2-fe9ceba3 | 11.0.1-18-ada36e51 | 1.1.15-73a9ea8f |
 
 
 
@@ -44,4 +43,5 @@
 | [2023.R5.1.1](/install_2023.R5.1.1.sh) | 15.2.0-f9e64aeb-04t6g000008KQnoAAG | 15.2.0-f9e64aeb-04t6g000008KQntAAG | 15.2.0-f9e64aeb-04t6g000008KQnyAAG | 12.1.1-15-681471e4 | 6.1.1-3-050a0583 | 11.0.1-18-ada36e51 | 1.1.15-73a9ea8f |
 | [2023.R4.1.12](/install_2023.R4.1.12.sh) | 14.8.0-d91b3f31-04t6g000008SnN4AAK | 14.7.0-d91b3f31-04t6g000008SnN9AAK | 14.9.0-afecfe17-04t6g000008SnOlAAK | 11.12.0-4-7f540808 | 5.6.0-5-b98a78d5 | 10.4.0-8-454bc627 | 1.1.15-73a9ea8f |
 | [2023.R5.1.2](/install_2023.R5.1.2.sh) | 15.2.0-f9e64aeb-04t6g000008KQnoAAG | 15.2.0-f9e64aeb-04t6g000008KQntAAG | 15.2.0-f9e64aeb-04t6g000008KQnyAAG | 12.2.1-2-126a7717 | 6.2.1-2-fe9ceba3 | 11.0.1-18-ada36e51 | 1.1.15-73a9ea8f |
+| [2023.R5.1.3](/install_2023.R5.1.3.sh) | 15.2.0-f9e64aeb-04t6g000008KQnoAAG | 15.2.0-f9e64aeb-04t6g000008KQntAAG | 15.2.0-f9e64aeb-04t6g000008KQnyAAG | 12.3.1-2-eba367d2 | 6.2.1-2-fe9ceba3 | 11.0.1-18-ada36e51 | 1.1.15-73a9ea8f |
 
