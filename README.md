@@ -1,7 +1,7 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
-| [2023.R6.1.0](/install_2023.R6.1.0.sh) | 16.1.0-07c03cb5-04t6g000008jo1UAAQ | 16.0.0-07c03cb5-04t6g000008jo1ZAAQ | 16.0.0-07c03cb5-04t6g000008jo1eAAA | 13.0.1-214-7cd5703a | 7.0.2-249-02572271 | 12.0.1-23-0d2ec140 | 1.1.15-73a9ea8f |
+| [2023.R6.1.0](/install_2023.R6.1.0.sh) | 16.1.0-07c03cb5-04t6g000008jo1UAAQ | 16.1.0-57a82cbc-04t6g000008jo1jAAA | 16.0.0-07c03cb5-04t6g000008jo1eAAA | 13.0.1-214-7cd5703a | 7.0.2-249-02572271 | 12.0.1-23-0d2ec140 | 1.1.15-73a9ea8f |
 
 
 
