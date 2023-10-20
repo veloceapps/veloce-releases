@@ -2,7 +2,7 @@
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
 | [2022.R3.1.10](/install_2022.R3.1.10.sh) | 13.7.0-3a5f27a5-04t6g000008OYHWAA4 | 13.2.0-3a5f27a5-04t6g000008OYHbAAO | 13.5.0-3a5f27a5-04t6g000008OYHlAAO | 10.9.1-2-54aee94b | 4.3.1-2-c2f81e56 | 9.3.1-4-21d594c1 | 1.1.15-73a9ea8f |
-| [2023.R6.1.5](/install_2023.R6.1.5.sh) | 16.3.0-b807b6ea-04t6g000008joG6AAI | 16.3.0-b807b6ea-04t6g000008joGBAAY | 16.2.0-b807b6ea-04t6g000008joGGAAY | 13.5.1-2-ac460e5a | 7.1.2-2-3f47f580 | 12.0.1-24-287ef055 | 1.1.15-73a9ea8f |
+| [2023.R6.1.5](/install_2023.R6.1.5.sh) | 16.4.0-de3611a5-04t6g000008joTWAAY | 16.3.0-b807b6ea-04t6g000008joGBAAY | 16.2.0-b807b6ea-04t6g000008joGGAAY | 13.5.1-2-ac460e5a | 7.1.2-2-3f47f580 | 12.0.1-24-287ef055 | 1.1.15-73a9ea8f |
 
 
 
