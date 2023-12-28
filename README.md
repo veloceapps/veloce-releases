@@ -1,7 +1,6 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
-| [2023.R6.1.8](/install_2023.R6.1.8.sh) | 16.5.0-de38cbfa-04tUc0000000fxdIAA | 16.5.0-de38cbfa-04tUc0000000fzFIAQ | 16.4.0-de38cbfa-04tUc0000000g0rIAA | 13.8.1-9-6aaaab95 | 7.4.2-3-a70fa9ea | 12.0.1-24-287ef055 | 1.1.15-73a9ea8f |
 
 
 
@@ -60,4 +59,5 @@
 | [2022.R3.1.11](/install_2022.R3.1.11.sh) | 13.7.0-3a5f27a5-04t6g000008OYHWAA4 | 13.2.0-3a5f27a5-04t6g000008OYHbAAO | 13.5.0-3a5f27a5-04t6g000008OYHlAAO | 10.10.1-21-5f300f57 | 4.3.1-2-c2f81e56 | 9.3.1-4-21d594c1 | 1.1.15-73a9ea8f |
 | [2023.R6.1.6](/install_2023.R6.1.6.sh) | 16.5.0-de38cbfa-04tUc0000000fxdIAA | 16.5.0-de38cbfa-04tUc0000000fzFIAQ | 16.4.0-de38cbfa-04tUc0000000g0rIAA | 13.6.1-5-97167598 | 7.2.2-5-85ebd0b4 | 12.0.1-24-287ef055 | 1.1.15-73a9ea8f |
 | [2023.R6.1.7](/install_2023.R6.1.7.sh) | 16.5.0-de38cbfa-04tUc0000000fxdIAA | 16.5.0-de38cbfa-04tUc0000000fzFIAQ | 16.4.0-de38cbfa-04tUc0000000g0rIAA | 13.7.1-15-3e1184eb | 7.3.2-3-fdcb46c3 | 12.0.1-24-287ef055 | 1.1.15-73a9ea8f |
+| [2023.R6.1.8](/install_2023.R6.1.8.sh) | 16.5.0-de38cbfa-04tUc0000000fxdIAA | 16.5.0-de38cbfa-04tUc0000000fzFIAQ | 16.4.0-de38cbfa-04tUc0000000g0rIAA | 13.8.1-9-6aaaab95 | 7.4.2-3-a70fa9ea | 12.0.1-24-287ef055 | 1.1.15-73a9ea8f |
 
