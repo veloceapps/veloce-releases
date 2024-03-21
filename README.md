@@ -1,7 +1,7 @@
 # Veloce SNAPSHOT releases
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
-| [2024.R7.1.0](/install_2024.R7.1.0.sh) | 17.0.0-e8b36c00-04tUc000000BKOPIA4 | 17.0.0-e8b36c00-04tUc000000BKQ1IAO | 17.0.0-e8b36c00-04tUc000000BKRdIAO | 14.0.1-479-e409f880 | 8.0.0-582-201aa2f4 | 13.0.1-12-94674eba | 1.1.15-73a9ea8f |
+| [2024.R7.1.0](/install_2024.R7.1.0.sh) | 17.0.0-e8b36c00-04tUc000000BKOPIA4 | 17.0.0-e8b36c00-04tUc000000BKQ1IAO | 17.0.0-e8b36c00-04tUc000000BKRdIAO | 14.0.1-480-eea49e9c | 8.0.0-582-201aa2f4 | 13.0.1-12-94674eba | 1.1.15-73a9ea8f |
 
 
 
