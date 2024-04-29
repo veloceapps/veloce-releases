@@ -2,6 +2,7 @@
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
 | [2024.R7.1.1](/install_2024.R7.1.1.sh) | 17.0.0-0706c40e-04tUc000000CGllIAG | 17.0.0-0706c40e-04tUc000000CGnNIAW | 17.0.0-0706c40e-04tUc000000CGqbIAG | 14.1.1-9-74ed50e3 | 8.1.0-3-155cbd92 | 13.0.1-16-924059f9 | 1.1.15-73a9ea8f |
+| [2024.R7.2.0](/install_2024.R7.2.0.sh) |  |  |  |  |  |  | 1.1.15-73a9ea8f |
 
 
 
