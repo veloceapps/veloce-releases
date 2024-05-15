@@ -22,7 +22,7 @@ sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdmin" || echo
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdminReadonly" || echo "Already assigned, ignoring"
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQRuntime" || echo "Already assigned, ignoring"
 sfdx force:package:installed:list -u $TARGET | fgrep 18.0.0-3-d0f82c70-04tUc000000CR4TIAW || sfdx force:package:install --noprompt -u $TARGET --package 18.0.0-3-d0f82c70-04tUc000000CR4TIAW -w 15
-sfdx force:package:installed:list -u $TARGET | fgrep 18.0.0-0-bea494d7-04tUc000000B5pBIAS || sfdx force:package:install --noprompt -u $TARGET --package 18.0.0-0-bea494d7-04tUc000000B5pBIAS -w 15
+sfdx force:package:installed:list -u $TARGET | fgrep 18.0.0-1-02739ec7-04tUc000000Ezd7IAC || sfdx force:package:install --noprompt -u $TARGET --package 18.0.0-1-02739ec7-04tUc000000Ezd7IAC -w 15
 echo Installing data
 
 cat << EOF > ./sfdx-project.json
