@@ -17,7 +17,7 @@ then
   exit 255
 fi
 echo Installing packages
-sfdx force:package:installed:list -u $TARGET | fgrep 18.0.0-5-02282b38-04tUc000000FBb3IAG || sfdx force:package:install --noprompt -u $TARGET --package 18.0.0-5-02282b38-04tUc000000FBb3IAG -w 15
+sfdx force:package:installed:list -u $TARGET | fgrep 18.0.0-6-02282b38-04tUc000000FBcfIAG || sfdx force:package:install --noprompt -u $TARGET --package 18.0.0-6-02282b38-04tUc000000FBcfIAG -w 15
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdmin" || echo "Already assigned, ignoring"
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQAdminReadonly" || echo "Already assigned, ignoring"
 sfdx force:user:permset:assign -u $TARGET --permsetname "VeloceCPQRuntime" || echo "Already assigned, ignoring"
