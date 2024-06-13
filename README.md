@@ -2,7 +2,7 @@
 | Release | CpqPackage | DataPackage | ExtensionPackage | BackendVersion | StudioVersion | FrontendVersion | DocgenVersion |
 | ------- | ---------- | ----------- | ---------------- | -------------- | ------------- | --------------- | ------------- |
 | [2024.R7.1.1](/install_2024.R7.1.1.sh) | 17.0.0-0706c40e-04tUc000000CGllIAG | 17.0.0-0706c40e-04tUc000000CGnNIAW | 17.0.0-0706c40e-04tUc000000CGqbIAG | 14.1.1-11-524bfa13 | 8.1.0-3-155cbd92 | 13.0.1-16-924059f9 | 1.1.15-73a9ea8f |
-| [2024.R7.3.1](/install_2024.R7.3.1.sh) | 18.1.0-d4ecec34-04tUc000000FGcLIAW | 18.1.0-d4ecec34-04tUc000000FGdxIAG | 18.1.0-d4ecec34-04tUc000000FGfZIAW | 16.1.1-2-cd3c1d89 | 10.0.0-13-64de9b5f | 15.0.1-1-6b039632 | 1.1.15-73a9ea8f |
+| [2024.R7.3.1](/install_2024.R7.3.1.sh) | 18.1.0-d4ecec34-04tUc000000FGcLIAW | 18.1.0-d4ecec34-04tUc000000FGdxIAG | 18.1.0-d4ecec34-04tUc000000FGfZIAW | 16.1.1-3-d6d9c966 | 10.0.0-13-64de9b5f | 15.0.1-1-6b039632 | 1.1.15-73a9ea8f |
 | [2023.R6.1.20](/install_2023.R6.1.20.sh) | 16.12.0-b12d28b9-04tUc000000CX8HIAW | 16.12.0-b12d28b9-04tUc000000CX9tIAG | 16.11.0-b12d28b9-04tUc000000CXBVIA4 | 13.17.1-3-4618043e | 7.9.2-3-312dd789 | 12.3.1-2-31855f7a | 1.1.15-73a9ea8f |
 
 
